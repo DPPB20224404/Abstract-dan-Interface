@@ -10,6 +10,7 @@ public class DoraMiniCopy implements Doraemon, RobotCopy{
   public void sayDora(){
     System.out.println("Halo, saya Dora Mini");
   }
+  
   public void displayKantongAjaib(){
     System.out.println("Saya juga seperti Doraemon yang memiliki kantung ajaib");
   }
